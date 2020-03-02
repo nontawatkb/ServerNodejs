@@ -30,7 +30,7 @@
         "passport-twitter": "^1.0.4",
         "pm2": "^3.5.1",
         "uuid": "^3.4.0"
-    }
+    },
     "bugs": {
         "url": "https://github.com/nontawatkb/ServerNodejs/issues"
     },

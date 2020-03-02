@@ -1,7 +1,6 @@
 var mongoose = require('mongoose');
 var CustomerSchema = new mongoose.Schema({
     No: Number,
-    Code: Number,
     Username: String,
     Password: String,
     CreateDate: Date,
